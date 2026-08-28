@@ -4,17 +4,11 @@
 
 # ROOKESH K
 
-### CYBER SECURITY STUDENT
+### <span style="color:#00D9FF;">CYBER SECURITY STUDENT</span>
 
-**Learn • Explore • Secure**
+<span style="color:#7DEBFF;">Learn • Explore • Secure</span>
 
 <br>
-
-<a href="https://github.com/Rookesh183">
-  <img src="https://img.shields.io/badge/GitHub-Rookesh183-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub">
-</a>
-
-&nbsp;
 
 <a href="https://linkedin.com/in/rookesh-k">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn">
@@ -28,36 +22,36 @@
 
 <br><br>
 
-📍 **Cuddalore, Tamil Nadu, India**
+<span style="color:#00D9FF;">📍 Cuddalore, Tamil Nadu, India</span>
 
 </div>
 
 ---
 
-## `01 // ABOUT ME`
+## <span style="color:#00D9FF;">`01 // ABOUT ME`</span>
 
 <table>
 <tr>
 
 <td width="58%" valign="top">
 
-### Hello, I'm Rookesh K
+### <span style="color:#00D9FF;">Hello, I'm Rookesh K</span>
 
-I'm a **B.E. Cyber Security student at Mahendra Engineering College (Autonomous)** focused on developing practical skills in **penetration testing, vulnerability assessment, network security, and security tooling**.
+I'm a <span style="color:#00D9FF;"><b>B.E. Cyber Security student at Mahendra Engineering College (Autonomous)</b></span> focused on developing practical skills in <span style="color:#00D9FF;"><b>penetration testing, vulnerability assessment, network security, and security tooling</b></span>.
 
-I work with tools such as **Nmap, Wireshark, and Kali Linux**, while using **Python, Java, JavaScript, and SQL** to build and explore security-focused solutions.
+I work with tools such as <span style="color:#00D9FF;"><b>Nmap, Wireshark, and Kali Linux</b></span>, while using <span style="color:#00D9FF;"><b>Python, Java, JavaScript, and SQL</b></span> to build and explore security-focused solutions.
 
 I'm particularly interested in understanding how systems and networks can be assessed, monitored, and secured through hands-on learning and practical projects.
 
-### Cybersecurity Interests
+### <span style="color:#00D9FF;">Cybersecurity Interests</span>
 
-- Penetration Testing
-- Vulnerability Assessment
-- Network Security
-- Network Enumeration
-- Network Traffic Analysis
-- Linux / Kali Linux
-- Python for Cybersecurity
+- <span style="color:#00D9FF;"><b>Penetration Testing</b></span>
+- <span style="color:#00D9FF;"><b>Vulnerability Assessment</b></span>
+- <span style="color:#00D9FF;"><b>Network Security</b></span>
+- <span style="color:#00D9FF;"><b>Network Enumeration</b></span>
+- <span style="color:#00D9FF;"><b>Network Traffic Analysis</b></span>
+- <span style="color:#00D9FF;"><b>Linux / Kali Linux</b></span>
+- <span style="color:#00D9FF;"><b>Python for Cybersecurity</b></span>
 
 </td>
 
@@ -72,9 +66,9 @@ I'm particularly interested in understanding how systems and networks can be ass
 
 ---
 
-## `02 // SKILLS & TOOLS`
+## <span style="color:#00D9FF;">`02 // SKILLS & TOOLS`</span>
 
-### Programming
+### <span style="color:#00D9FF;">Programming</span>
 
 <p>
 <img src="https://img.shields.io/badge/Python-0D1117?style=for-the-badge&logo=python&logoColor=00D9FF" alt="Python">
@@ -83,7 +77,7 @@ I'm particularly interested in understanding how systems and networks can be ass
 <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=mysql&logoColor=00D9FF" alt="SQL">
 </p>
 
-### Cybersecurity
+### <span style="color:#00D9FF;">Cybersecurity</span>
 
 <p>
 <img src="https://img.shields.io/badge/Penetration_Testing-0D1117?style=for-the-badge&logoColor=00D9FF" alt="Penetration Testing">
@@ -93,7 +87,7 @@ I'm particularly interested in understanding how systems and networks can be ass
 <img src="https://img.shields.io/badge/Network_Traffic_Analysis-0D1117?style=for-the-badge&logoColor=00D9FF" alt="Network Traffic Analysis">
 </p>
 
-### Security Tools
+### <span style="color:#00D9FF;">Security Tools</span>
 
 <p>
 <img src="https://img.shields.io/badge/Nmap-Network_Scanner-0D1117?style=for-the-badge&logoColor=00D9FF" alt="Nmap">
@@ -101,17 +95,15 @@ I'm particularly interested in understanding how systems and networks can be ass
 <img src="https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00D9FF" alt="Kali Linux">
 </p>
 
-### Platforms
+### <span style="color:#00D9FF;">Platforms</span>
 
 <p>
 <img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=00D9FF" alt="Linux">
-<img src="https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=00D9FF" alt="Git">
-<img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub">
 </p>
 
 ---
 
-## `03 // SECURITY FOCUS`
+## <span style="color:#00D9FF;">`03 // SECURITY FOCUS`</span>
 
 <div align="center">
 
@@ -120,9 +112,9 @@ I'm particularly interested in understanding how systems and networks can be ass
 
 <td align="center" width="25%">
 
-### ◈
+### <span style="color:#00D9FF;">◈</span>
 
-**OFFENSIVE SECURITY**
+<span style="color:#00D9FF;"><b>OFFENSIVE SECURITY</b></span>
 
 Penetration Testing  
 Vulnerability Assessment
@@ -131,9 +123,9 @@ Vulnerability Assessment
 
 <td align="center" width="25%">
 
-### ◉
+### <span style="color:#00D9FF;">◉</span>
 
-**NETWORK SECURITY**
+<span style="color:#00D9FF;"><b>NETWORK SECURITY</b></span>
 
 Network Enumeration  
 Traffic Analysis
@@ -142,9 +134,9 @@ Traffic Analysis
 
 <td align="center" width="25%">
 
-### ⌘
+### <span style="color:#00D9FF;">⌘</span>
 
-**SECURITY TOOLING**
+<span style="color:#00D9FF;"><b>SECURITY TOOLING</b></span>
 
 Nmap  
 Wireshark  
@@ -154,9 +146,9 @@ Kali Linux
 
 <td align="center" width="25%">
 
-### `>_`
+### <span style="color:#00D9FF;">`>_`</span>
 
-**AUTOMATION**
+<span style="color:#00D9FF;"><b>AUTOMATION</b></span>
 
 Python  
 Security Tooling
@@ -170,7 +162,7 @@ Security Tooling
 
 ---
 
-## `04 // FEATURED PROJECTS`
+## <span style="color:#00D9FF;">`04 // FEATURED PROJECTS`</span>
 
 <table>
 <tr>
@@ -179,17 +171,13 @@ Security Tooling
 
 <img src="./project-ransomware.png" alt="Ransomware Detection System project" width="100%">
 
-### Ransomware Detection System
+### <span style="color:#00D9FF;">Ransomware Detection System</span>
 
 A Python-based cybersecurity project focused on detecting ransomware-related activity.
 
-**Technology**
+<span style="color:#00D9FF;"><b>Technology</b></span>
 
 `Python`
-
-<br>
-
-**[View Project →](#)**
 
 </td>
 
@@ -197,17 +185,13 @@ A Python-based cybersecurity project focused on detecting ransomware-related act
 
 <img src="./project-password.png" alt="Password Cracker project" width="100%">
 
-### Password Cracker
+### <span style="color:#00D9FF;">Password Cracker</span>
 
 A Python security project focused on password testing using dictionary-based approaches.
 
-**Technology**
+<span style="color:#00D9FF;"><b>Technology</b></span>
 
 `Python`
-
-<br>
-
-**[View Project →](#)**
 
 </td>
 
@@ -215,44 +199,38 @@ A Python security project focused on password testing using dictionary-based app
 
 <img src="./project-healthpro.png" alt="Health Pro web application" width="100%">
 
-### Health Pro
+### <span style="color:#00D9FF;">Health Pro</span>
 
 A JavaScript-based web application project.
 
-**Technology**
+<span style="color:#00D9FF;"><b>Technology</b></span>
 
 `JavaScript`
 
-<br>
-
-**[View Project →](#)**
-
 </td>
 
 </tr>
 </table>
 
-> **Note:** Replace the `#` project links above with your actual GitHub repository URLs when available.
-
 ---
 
-## `05 // EXPERIENCE`
+## <span style="color:#00D9FF;">`05 // EXPERIENCE`</span>
 
 <table>
 <tr>
 
 <td width="100%">
 
-### Cybersecurity Intern
+### <span style="color:#00D9FF;">Cybersecurity Intern</span>
 
-**Ozone Cyber Security**
+<span style="color:#00D9FF;"><b>Ozone Cyber Security</b></span>
 
-#### Focus Areas
+#### <span style="color:#00D9FF;">Focus Areas</span>
 
 - Assisted with penetration testing activities.
 - Worked on vulnerability identification.
-- Performed network and service enumeration using **Nmap**.
-- Analyzed packets and network traffic using **Wireshark**.
+- Performed network and service enumeration using <span style="color:#00D9FF;"><b>Nmap</b></span>.
+- Analyzed packets and network traffic using <span style="color:#00D9FF;"><b>Wireshark</b></span>.
 
 </td>
 
@@ -261,18 +239,18 @@ A JavaScript-based web application project.
 
 ---
 
-## `06 // EDUCATION`
+## <span style="color:#00D9FF;">`06 // EDUCATION`</span>
 
 <table>
 <tr>
 
 <td width="100%">
 
-### B.E. Cyber Security
+### <span style="color:#00D9FF;">B.E. Cyber Security</span>
 
-**Mahendra Engineering College (Autonomous)**
+<span style="color:#00D9FF;"><b>Mahendra Engineering College (Autonomous)</b></span>
 
-**Expected Graduation:** May 2027
+<span style="color:#00D9FF;"><b>Expected Graduation:</b></span> May 2027
 
 </td>
 
@@ -281,24 +259,24 @@ A JavaScript-based web application project.
 
 ---
 
-## `07 // CERTIFICATIONS`
+## <span style="color:#00D9FF;">`07 // CERTIFICATIONS`</span>
 
 <table>
 <tr>
 
 <td width="50%" valign="top">
 
-### Python Functions and OOP Concepts
+### <span style="color:#00D9FF;">Python Functions and OOP Concepts</span>
 
-**Great Learning**
+<span style="color:#00D9FF;"><b>Great Learning</b></span>
 
 </td>
 
 <td width="50%" valign="top">
 
-### Cybersecurity Workshop
+### <span style="color:#00D9FF;">Cybersecurity Workshop</span>
 
-**Ozen Cybersecurity**
+<span style="color:#00D9FF;"><b>Ozen Cybersecurity</b></span>
 
 </td>
 
@@ -307,7 +285,7 @@ A JavaScript-based web application project.
 
 ---
 
-## `08 // CURRENTLY LEARNING`
+## <span style="color:#00D9FF;">`08 // CURRENTLY LEARNING`</span>
 
 <div align="center">
 
@@ -316,25 +294,25 @@ A JavaScript-based web application project.
 
 <td align="center" width="33%">
 
-### `01`
+### <span style="color:#00D9FF;">`01`</span>
 
-**Penetration Testing**
-
-</td>
-
-<td align="center" width="33%">
-
-### `02`
-
-**Network Security**
+<span style="color:#00D9FF;"><b>Penetration Testing</b></span>
 
 </td>
 
 <td align="center" width="33%">
 
-### `03`
+### <span style="color:#00D9FF;">`02`</span>
 
-**Vulnerability Assessment**
+<span style="color:#00D9FF;"><b>Network Security</b></span>
+
+</td>
+
+<td align="center" width="33%">
+
+### <span style="color:#00D9FF;">`03`</span>
+
+<span style="color:#00D9FF;"><b>Vulnerability Assessment</b></span>
 
 </td>
 
@@ -344,25 +322,25 @@ A JavaScript-based web application project.
 
 <td align="center" width="33%">
 
-### `04`
+### <span style="color:#00D9FF;">`04`</span>
 
-**Python Security Tooling**
-
-</td>
-
-<td align="center" width="33%">
-
-### `05`
-
-**Linux / Kali Linux**
+<span style="color:#00D9FF;"><b>Python Security Tooling</b></span>
 
 </td>
 
 <td align="center" width="33%">
 
-### `06`
+### <span style="color:#00D9FF;">`05`</span>
 
-**Network Traffic Analysis**
+<span style="color:#00D9FF;"><b>Linux / Kali Linux</b></span>
+
+</td>
+
+<td align="center" width="33%">
+
+### <span style="color:#00D9FF;">`06`</span>
+
+<span style="color:#00D9FF;"><b>Network Traffic Analysis</b></span>
 
 </td>
 
@@ -374,41 +352,9 @@ A JavaScript-based web application project.
 
 ---
 
-## `09 // GITHUB`
+## <span style="color:#00D9FF;">`09 // CONNECT WITH ME`</span>
 
 <div align="center">
-
-<a href="https://github.com/Rookesh183">
-  <img src="https://img.shields.io/badge/GitHub-View_Profile-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="View Rookesh K GitHub profile">
-</a>
-
-&nbsp;
-
-<a href="https://github.com/Rookesh183?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="Explore Rookesh K repositories">
-</a>
-
-<br><br>
-
-**Explore my repositories, projects, and development work on GitHub.**
-
-<br>
-
-`Learn. Build. Secure. Repeat.`
-
-</div>
-
----
-
-## `10 // CONNECT WITH ME`
-
-<div align="center">
-
-<a href="https://github.com/Rookesh183">
-<img src="https://img.shields.io/badge/GitHub-Rookesh183-0D1117?style=for-the-badge&logo=github&logoColor=00D9FF" alt="GitHub profile">
-</a>
-
-&nbsp;
 
 <a href="https://linkedin.com/in/rookesh-k">
 <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn profile">
@@ -422,7 +368,7 @@ A JavaScript-based web application project.
 
 <br><br>
 
-📍 **Cuddalore, Tamil Nadu, India**
+<span style="color:#00D9FF;">📍 <b>Cuddalore, Tamil Nadu, India</b></span>
 
 </div>
 
@@ -432,7 +378,7 @@ A JavaScript-based web application project.
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-### `Securing Today • Protecting Tomorrow 🔐`
+### <span style="color:#00D9FF;">`Securing Today • Protecting Tomorrow 🔐`</span>
 
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
