@@ -9,13 +9,8 @@
 **Learn • Explore • Secure**
 
 <br>
-
-<a href="https://github.com/Rookesh183">
-  <img src="https://img.shields.io/badge/GitHub-Rookesh183-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-</a>
-&nbsp;
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn">
+<a href="linkedin.com/in/rookesh-k">
+ <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn">
 </a>
 &nbsp;
 <a href="mailto:rookeshkrps@gmail.com">
@@ -82,11 +77,10 @@ I enjoy learning how systems and networks work, identifying security weaknesses,
 </p>
 
 ### Security Tools
-
 <p>
-<img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=00D9FF" alt="Nmap">
-<img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00D9FF">
-<img src="https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00D9FF">
+<img src="https://img.shields.io/badge/Nmap-Network%20Scanner-0D1117?style=for-the-badge&logoColor=00D9FF" alt="Nmap">
+<img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00D9FF" alt="Wireshark">
+<img src="https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00D9FF" alt="Kali Linux">
 </p>
 
 ### Platforms
@@ -262,7 +256,7 @@ A JavaScript-based project developed as a web application.
 &nbsp;
 
 <a href="linkedin.com/in/rookesh-k">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn">
+ <img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn">
 </a>
 
 &nbsp;
