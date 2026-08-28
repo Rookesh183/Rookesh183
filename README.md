@@ -52,7 +52,7 @@ I enjoy learning how systems and networks work, identifying security weaknesses,
 
 <td width="42%" valign="middle">
 
-<img src="assets/cybersecurity-about.png" alt="Cybersecurity themed workspace" width="100%">
+<img src="/cybersecurity-about.png" alt="Cybersecurity themed workspace" width="100%">
 
 </td>
 </tr>
@@ -106,7 +106,7 @@ I enjoy learning how systems and networks work, identifying security weaknesses,
 
 <td width="33%" valign="top">
 
-<img src="assets/project-ransomware.png" alt="Ransomware Detection System project" width="100%">
+<img src="/project-ransomware.png" alt="Ransomware Detection System project" width="100%">
 
 ### Ransomware Detection System
 
@@ -126,7 +126,7 @@ A Python-based cybersecurity project focused on detecting ransomware-related act
 
 <td width="33%" valign="top">
 
-<img src="assets/project-password.png" alt="Password Cracker project" width="100%">
+<img src="/project-password.png" alt="Password Cracker project" width="100%">
 
 ### Password Cracker
 
@@ -146,7 +146,7 @@ A Python security project focused on password testing using dictionary-based app
 
 <td width="33%" valign="top">
 
-<img src="assets/project-healthpro.png" alt="Health Pro web application" width="100%">
+<img src="/project-healthpro.png" alt="Health Pro web application" width="100%">
 
 ### Health Pro
 
