@@ -173,23 +173,49 @@ A JavaScript-based project developed as a web application.
 
 <div align="center">
 
+<table>
+<tr>
+<td align="center">
+
+### REPOSITORIES
+
+**[View Repositories →](https://github.com/Rookesh183?tab=repositories)**
+
+</td>
+
+<td align="center">
+
+### CONTRIBUTIONS
+
+**[View Contribution Graph →](https://github.com/Rookesh183)**
+
+</td>
+
+<td align="center">
+
+### PROJECTS
+
+**[Explore Projects →](https://github.com/Rookesh183?tab=repositories)**
+
+</td>
+</tr>
+</table>
+
+<br>
+
 <a href="https://github.com/Rookesh183">
+<img src="https://img.shields.io/github/followers/Rookesh183?label=Followers&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="GitHub followers">
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rookesh183&show_icons=true&hide_border=true&theme=dark" alt="Rookesh K GitHub statistics">
-
+<a href="https://github.com/Rookesh183?tab=repositories">
+<img src="https://img.shields.io/github/stars/Rookesh183?affiliations=OWNER&style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="GitHub stars">
 </a>
 
 <br><br>
 
 <a href="https://github.com/Rookesh183">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rookesh183&layout=compact&hide_border=true&theme=dark" alt="Rookesh K most used programming languages">
-
+<img src="https://img.shields.io/github/commit-activity/y/Rookesh183?style=for-the-badge&color=00D9FF&labelColor=0D1117" alt="GitHub yearly commit activity">
 </a>
-
-<br><br>
-
-<img src="https://streak-stats.demolab.com/?user=Rookesh183&theme=dark&hide_border=true" alt="Rookesh K GitHub contribution streak">
 
 </div>
 
@@ -204,10 +230,15 @@ A JavaScript-based project developed as a web application.
 <br>
 
 <a href="https://github.com/Rookesh183">
-  <img src="https://img.shields.io/badge/View_GitHub_Contributions-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Rookesh K GitHub contributions">
+<img src="https://img.shields.io/badge/OPEN_GITHUB_PROFILE-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="Open Rookesh K GitHub profile">
 </a>
 
+<br><br>
+
+> **My GitHub profile contains my live contribution activity, repositories, and development history.**
+
 </div>
+
 ---
 
 ## `06 // EXPERIENCE`
