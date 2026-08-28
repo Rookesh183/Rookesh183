@@ -15,7 +15,7 @@
 </a>
 &nbsp;
 <a href="YOUR_LINKEDIN_URL">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-00A8E8?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn">
 </a>
 &nbsp;
 <a href="mailto:rookeshkrps@gmail.com">
@@ -84,7 +84,7 @@ I enjoy learning how systems and networks work, identifying security weaknesses,
 ### Security Tools
 
 <p>
-<img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logoColor=00D9FF">
+<img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=00D9FF" alt="Nmap">
 <img src="https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=00D9FF">
 <img src="https://img.shields.io/badge/Kali_Linux-0D1117?style=for-the-badge&logo=kalilinux&logoColor=00D9FF">
 </p>
@@ -261,8 +261,8 @@ A JavaScript-based project developed as a web application.
 
 &nbsp;
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-YOUR_LINKEDIN_URL-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn profile">
+<a href="linkedin.com/in/rookesh-k">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0D1117?style=for-the-badge&logo=linkedin&logoColor=00D9FF" alt="LinkedIn">
 </a>
 
 &nbsp;
