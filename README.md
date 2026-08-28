@@ -173,15 +173,23 @@ A JavaScript-based project developed as a web application.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Rookesh183&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00D9FF&icon_color=00D9FF&text_color=C9D1D9" alt="Rookesh K GitHub statistics">
+<a href="https://github.com/Rookesh183">
+
+<img src="https://github-readme-stats.vercel.app/api?username=Rookesh183&show_icons=true&hide_border=true&theme=dark" alt="Rookesh K GitHub statistics">
+
+</a>
 
 <br><br>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rookesh183&layout=compact&hide_border=true&bg_color=0D1117&title_color=00D9FF&text_color=C9D1D9" alt="Rookesh K most used programming languages">
+<a href="https://github.com/Rookesh183">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rookesh183&layout=compact&hide_border=true&theme=dark" alt="Rookesh K most used programming languages">
+
+</a>
 
 <br><br>
 
-<img src="https://streak-stats.demolab.com?user=Rookesh183&theme=dark&hide_border=true&background=0D1117&ring=00D9FF&fire=00D9FF&currStreakLabel=00D9FF" alt="Rookesh K GitHub contribution streak">
+<img src="https://streak-stats.demolab.com/?user=Rookesh183&theme=dark&hide_border=true" alt="Rookesh K GitHub contribution streak">
 
 </div>
 
@@ -191,12 +199,15 @@ A JavaScript-based project developed as a web application.
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Rookesh183&bg_color=0D1117&color=C9D1D9&line=00D9FF&point=00D9FF&area=true&hide_border=true" alt="Rookesh K GitHub contribution activity graph">
-
 ### `Learn. Build. Secure. Repeat.`
 
-</div>
+<br>
 
+<a href="https://github.com/Rookesh183">
+  <img src="https://img.shields.io/badge/View_GitHub_Contributions-00D9FF?style=for-the-badge&logo=github&logoColor=white" alt="View Rookesh K GitHub contributions">
+</a>
+
+</div>
 ---
 
 ## `06 // EXPERIENCE`
